@@ -1,0 +1,60 @@
+﻿consulta_id,necessidade,tool_name,relevancia,justificativa,fonte_verificacao,category_canonical,modality_canonical,website
+Q01,Assistente para escrever código,Amazon Q Developer,1.0,Capacidade documentada de geração de código,https://docs.aws.amazon.com/amazonq/,LLMs & Chat Assistants,code,https://aws.amazon.com/q/developer/
+Q01,Assistente para escrever código,Anthropic Tool Use,0.0,Funcionalidade de integração com ferramentas; não é um assistente de programação independente.,https://platform.claude.com/docs/en/agents-and-tools/tool-use/overview,Other,code,https://docs.anthropic.com
+Q01,Assistente para escrever código,Blackbox AI,1.0,Capacidade documentada: gera_codigo,https://docs.blackbox.chat/blackbox-ai-1/extensions/blackbox-ai-on-vscode/vscode-extension,LLMs & Chat Assistants,code,https://www.useblackbox.io
+Q01,Assistente para escrever código,Code Llama,1.0,Ferramenta com capacidades de geração e assistência na correção de código,https://ai.meta.com/blog/code-llama-large-language-model-coding/,LLMs & Chat Assistants,code,https://ai.meta.com/llama/
+Q01,Assistente para escrever código,Codeium,1.0,Ferramenta com capacidades de geração e assistência na correção de código,https://windsurf.com/,LLMs & Chat Assistants,code,https://www.codeium.com
+Q02,Ferramenta para depurar código,Amazon Q Developer,1.0,Capacidade documentada de depuração de código,https://docs.aws.amazon.com/amazonq/,LLMs & Chat Assistants,code,https://aws.amazon.com/q/developer/
+Q02,Ferramenta para depurar código,Anthropic Tool Use,0.0,Funcionalidade de integração com ferramentas; não é um assistente de programação independente.,https://platform.claude.com/docs/en/agents-and-tools/tool-use/overview,Other,code,https://docs.anthropic.com
+Q02,Ferramenta para depurar código,Blackbox AI,1.0,Capacidade documentada: depura_codigo,https://docs.blackbox.chat/blackbox-ai-1/extensions/blackbox-ai-on-vscode/vscode-extension,LLMs & Chat Assistants,code,https://www.useblackbox.io
+Q02,Ferramenta para depurar código,Code Llama,1.0,Ferramenta com capacidades de geração e assistência na correção de código,https://ai.meta.com/blog/code-llama-large-language-model-coding/,LLMs & Chat Assistants,code,https://ai.meta.com/llama/
+Q02,Ferramenta para depurar código,Codeium,1.0,Ferramenta com capacidades de geração e assistência na correção de código,https://windsurf.com/,LLMs & Chat Assistants,code,https://www.codeium.com
+Q03,Gerar imagens com IA,Adobe Firefly,1.0,Capacidade funcional compatível com a tarefa; classificação preliminar,,Image Gen & Editing,image,https://www.adobe.com/products/firefly.html
+Q03,Gerar imagens com IA,Adobe Photoshop Generative Fill,1.0,Capacidade funcional compatível com a tarefa; classificação preliminar,,Image Gen & Editing,image,https://www.adobe.com/products/photoshop.html
+Q03,Gerar imagens com IA,Automatic1111,1.0,Capacidade funcional compatível com a tarefa; classificação preliminar,,Image Gen & Editing,image,https://github.com/AUTOMATIC1111/stable-diffusion-webui
+Q03,Gerar imagens com IA,Black Forest Labs FLUX,1.0,Capacidade funcional compatível com a tarefa; classificação preliminar,,Image Gen & Editing,image,https://blackforestlabs.ai
+Q03,Gerar imagens com IA,ComfyUI,1.0,Capacidade funcional compatível com a tarefa; classificação preliminar,,Image Gen & Editing,image,https://github.com/comfyanonymous/ComfyUI
+Q04,Editar imagens com IA,Adobe Firefly,1.0,Capacidade funcional compatível com a tarefa; classificação preliminar,,Image Gen & Editing,image,https://www.adobe.com/products/firefly.html
+Q04,Editar imagens com IA,Adobe Photoshop Generative Fill,1.0,Capacidade funcional compatível com a tarefa; classificação preliminar,,Image Gen & Editing,image,https://www.adobe.com/products/photoshop.html
+Q04,Editar imagens com IA,Automatic1111,1.0,Capacidade funcional compatível com a tarefa; classificação preliminar,,Image Gen & Editing,image,https://github.com/AUTOMATIC1111/stable-diffusion-webui
+Q04,Editar imagens com IA,Black Forest Labs FLUX,1.0,Capacidade funcional compatível com a tarefa; classificação preliminar,,Image Gen & Editing,image,https://blackforestlabs.ai
+Q04,Editar imagens com IA,ComfyUI,1.0,Capacidade funcional compatível com a tarefa; classificação preliminar,,Image Gen & Editing,image,https://github.com/comfyanonymous/ComfyUI
+Q05,Gerar vídeos com IA,CapCut AI,1.0,Capacidade funcional compatível com a tarefa; classificação preliminar,,Video Gen & Editing,video,https://www.capcut.com/ai
+Q05,Gerar vídeos com IA,HeyGen,1.0,Capacidade funcional compatível com a tarefa; classificação preliminar,,Video Gen & Editing,video,https://www.heygen.com
+Q05,Gerar vídeos com IA,Kling AI,1.0,Capacidade funcional compatível com a tarefa; classificação preliminar,,Video Gen & Editing,video,https://klingai.com
+Q05,Gerar vídeos com IA,Luma Dream Machine,1.0,Capacidade funcional compatível com a tarefa; classificação preliminar,,Video Gen & Editing,video,https://lumalabs.ai
+Q05,Gerar vídeos com IA,OpenAI Sora,1.0,Capacidade funcional compatível com a tarefa; classificação preliminar,,Video Gen & Editing,video,https://openai.com/sora
+Q06,Editar vídeos com IA,CapCut AI,1.0,Capacidade funcional compatível com a tarefa; classificação preliminar,,Video Gen & Editing,video,https://www.capcut.com/ai
+Q06,Editar vídeos com IA,HeyGen,1.0,Capacidade funcional compatível com a tarefa; classificação preliminar,,Video Gen & Editing,video,https://www.heygen.com
+Q06,Editar vídeos com IA,Kling AI,1.0,Capacidade funcional compatível com a tarefa; classificação preliminar,,Video Gen & Editing,video,https://klingai.com
+Q06,Editar vídeos com IA,Luma Dream Machine,1.0,Capacidade funcional compatível com a tarefa; classificação preliminar,,Video Gen & Editing,video,https://lumalabs.ai
+Q06,Editar vídeos com IA,OpenAI Sora,1.0,Capacidade funcional compatível com a tarefa; classificação preliminar,,Video Gen & Editing,video,https://openai.com/sora
+Q07,Transcrever áudio em texto,AssemblyAI,1.0,Funcionalidade compatível com a necessidade; classificação preliminar,,Other,audio,https://www.assemblyai.com
+Q07,Transcrever áudio em texto,Coqui TTS,0.0,Não atende diretamente à necessidade específica,,Audio/Music/TTS,audio,https://coqui.ai
+Q07,Transcrever áudio em texto,Deepgram,1.0,Funcionalidade compatível com a necessidade; classificação preliminar,,Audio/Music/TTS,audio,https://deepgram.com
+Q07,Transcrever áudio em texto,Descript,1.0,Funcionalidade compatível com a necessidade; classificação preliminar,,Video Gen & Editing,audio,https://www.descript.com
+Q07,Transcrever áudio em texto,WhisperX,1.0,Funcionalidade compatível com a necessidade; classificação preliminar,,Speech-to-Text (ASR),audio,https://github.com/m-bain/whisperX
+Q08,Gerar áudio ou voz,Coqui TTS,1.0,Funcionalidade compatível com a necessidade; classificação preliminar,,Audio/Music/TTS,audio,https://coqui.ai
+Q08,Gerar áudio ou voz,Deepgram,1.0,Funcionalidade compatível com a necessidade; classificação preliminar,,Audio/Music/TTS,audio,https://deepgram.com
+Q08,Gerar áudio ou voz,ElevenLabs,1.0,Funcionalidade compatível com a necessidade; classificação preliminar,,Audio/Music/TTS,audio,https://elevenlabs.io
+Q08,Gerar áudio ou voz,PlayHT,1.0,Funcionalidade compatível com a necessidade; classificação preliminar,,Audio/Music/TTS,audio,https://play.ht
+Q08,Gerar áudio ou voz,Silero VAD,0.0,Não atende diretamente à necessidade específica,,Audio/Music/TTS,audio,https://github.com/snakers4/silero-vad
+Q09,Assistente de conversação,ChatGPT,1.0,Funcionalidade compatível com a necessidade; classificação preliminar,,LLMs & Chat Assistants,multimodal,https://chatgpt.com
+Q09,Assistente de conversação,Claude,1.0,Funcionalidade compatível com a necessidade; classificação preliminar,,LLMs & Chat Assistants,multimodal,https://claude.ai
+Q09,Assistente de conversação,Claude 3.7 Sonnet,1.0,Funcionalidade compatível com a necessidade; classificação preliminar,,LLMs & Chat Assistants,multimodal,https://www.anthropic.com
+Q09,Assistente de conversação,Cohere Command R,1.0,Funcionalidade compatível com a necessidade; classificação preliminar,,LLMs & Chat Assistants,multimodal,https://cohere.com
+Q09,Assistente de conversação,DBRX,1.0,Funcionalidade compatível com a necessidade; classificação preliminar,,LLMs & Chat Assistants,multimodal,https://www.databricks.com/research/dbrx
+Q10,Pesquisar documentos com RAG,Milvus,1.0,Funcionalidade compatível com a necessidade; classificação preliminar,,Search & RAG,infra,https://milvus.io
+Q10,Pesquisar documentos com RAG,Papers with Code SOTA,0.0,Não atende diretamente à necessidade específica,,Search & RAG,infra,https://paperswithcode.com
+Q10,Pesquisar documentos com RAG,Pinecone,1.0,Funcionalidade compatível com a necessidade; classificação preliminar,,Search & RAG,infra,https://www.pinecone.io
+Q10,Pesquisar documentos com RAG,Qdrant,1.0,Funcionalidade compatível com a necessidade; classificação preliminar,,Search & RAG,infra,https://qdrant.tech
+Q10,Pesquisar documentos com RAG,Weaviate,1.0,Funcionalidade compatível com a necessidade; classificação preliminar,,Search & RAG,infra,https://weaviate.io
+Q11,Criar interfaces e designs,Canva Magic Design,1.0,Funcionalidade compatível com a necessidade; classificação preliminar,,Design & UI,design,https://www.canva.com/magic-design/
+Q11,Criar interfaces e designs,Figma AI,1.0,Funcionalidade compatível com a necessidade; classificação preliminar,,Design & UI,design,https://www.figma.com/ai/
+Q11,Criar interfaces e designs,Framer AI,1.0,Funcionalidade compatível com a necessidade; classificação preliminar,,Design & UI,design,https://www.framer.com/features/ai/
+Q11,Criar interfaces e designs,Vercel v0,1.0,Funcionalidade compatível com a necessidade; classificação preliminar,,Design & UI,productivity,https://v0.app
+Q12,Avaliar segurança de IA,Guardrails AI (framework),1.0,Funcionalidade compatível com a necessidade; classificação preliminar,,Safety & Guardrails,safety,https://www.guardrailsai.com/
+Q12,Avaliar segurança de IA,Lakera Guard,1.0,Funcionalidade compatível com a necessidade; classificação preliminar,,Safety & Guardrails,safety,https://www.lakera.ai/lakera-guard
+Q12,Avaliar segurança de IA,Llama Guard,1.0,Funcionalidade compatível com a necessidade; classificação preliminar,,Safety & Guardrails,safety,https://ai.meta.com
+Q12,Avaliar segurança de IA,LlamaGuard 2,1.0,Funcionalidade compatível com a necessidade; classificação preliminar,,Safety & Guardrails,text,https://ai.meta.com
+Q12,Avaliar segurança de IA,NVIDIA NeMo Guardrails,1.0,Funcionalidade compatível com a necessidade; classificação preliminar,,Safety & Guardrails,safety,https://developer.nvidia.com/nemo-guardrails
